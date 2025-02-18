@@ -1,7 +1,8 @@
+---
+
 # Steganography
 
-Steganography is the technique of hiding secret data within a non-secret object, like text, images, or audio, to avoid detection.
-Here’s a sample **README** for your steganography project repository on GitHub:
+Steganography is the technique of hiding secret data within a non-secret object, such as text, images, or audio, to avoid detection.
 
 ---
 
@@ -65,7 +66,7 @@ pip install opencv-python
    - Embed the secret message inside the image.
    - Save the modified image as `encryptedImage.png` in the `output` folder.
 
-5. The image will be opened using your default image viewer, and the modified image will not visually show any difference.
+5. The image will be opened using your default image viewer. The modified image will not visibly show any difference.
 
 ### 2. Decrypt the Hidden Message
 
@@ -108,3 +109,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 This README includes instructions for setting up, using the tool, and understanding how it works. You can modify it as needed based on additional features or changes you make to the project.
+
+---
